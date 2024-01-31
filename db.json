@@ -1,0 +1,12 @@
+{
+    "users":[
+      {
+        "login":"root",
+        "password":1,
+        "name":"Admin",
+        "fullName":"Root",
+        "score":10
+      }
+    ]
+  }
+  
