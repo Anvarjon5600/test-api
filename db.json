@@ -5,8 +5,8 @@
         "password":1,
         "name":"Admin",
         "fullName":"Root",
-        "score":10
+        "score":10,
+        "id":1
       }
     ]
   }
-  
